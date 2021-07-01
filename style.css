@@ -1,0 +1,41 @@
+h1 {
+    color: brown;
+}
+
+/** {
+    border: solid;
+}*/
+.header{background-color:#c41ca8;
+display:flex;
+justify-content: space-between}
+
+.item{display:flex;
+    flex-wrap: wrap;
+justify-content: space-evenly}
+
+.footer{display:flex;
+justify-content:flex-end}
+
+p,h2{text-align: center;}
+
+body{
+    background-color:#8be4e4
+}
+.pigeon {
+    border: 1px solid black;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 200px;
+    height: 500px;
+    padding: 50px;
+    background-color:#E8E5E4;
+  }
+  .panda {
+    border: 1px solid black;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 200px;
+    height: 400px;
+    padding: 50px;
+    background-color:#E8E5E4;
+  }
